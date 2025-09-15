@@ -37,7 +37,7 @@ const Home = () => {
   }
 
   const ai = new GoogleGenAI({
-    apiKey: "AIzaSyD2xCvL-eUtY9Y0tBrvpIaP7rm1s9ip3Lc"
+    apiKey: "######"
   });
 
   async function getResponse() {
